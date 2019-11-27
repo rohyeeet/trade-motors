@@ -8,7 +8,7 @@ django-js-asset==0.1.1
 django-registration==2.3
 persisting-theory==0.2.1
 pilkit==2.0
-Pillow==4.3.0
+Pillow==6.2.0
 pytz==2017.3
 requests>=2.20.0
 selenium==3.7.0
